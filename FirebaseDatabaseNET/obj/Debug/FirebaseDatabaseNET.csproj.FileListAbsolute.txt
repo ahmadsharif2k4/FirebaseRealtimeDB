@@ -1,0 +1,17 @@
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\obj\Debug\FirebaseDatabaseNET.csproj.AssemblyReference.cache
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\obj\Debug\FirebaseDatabaseNET.csproj.SuggestedBindingRedirects.cache
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\obj\Debug\FirebaseDatabaseNET.csproj.CoreCompileInputs.cache
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\bin\Debug\FirebaseDatabaseNET.exe.config
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\bin\Debug\FirebaseDatabaseNET.exe
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\bin\Debug\FirebaseDatabaseNET.pdb
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\bin\Debug\Firebase.dll
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\bin\Debug\LiteDB.dll
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\bin\Debug\Newtonsoft.Json.dll
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\bin\Debug\System.Reactive.dll
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\bin\Debug\Firebase.xml
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\bin\Debug\LiteDB.xml
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\bin\Debug\Newtonsoft.Json.xml
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\bin\Debug\System.Reactive.xml
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\obj\Debug\FirebaseDatabaseNET.csproj.CopyComplete
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\obj\Debug\FirebaseDatabaseNET.exe
+D:\R&D\FirebaseRealtimeDatabase\FirebaseDatabaseNET\obj\Debug\FirebaseDatabaseNET.pdb
